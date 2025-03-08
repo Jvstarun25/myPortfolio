@@ -473,11 +473,22 @@ const experience = {
       work: true,
       experiences: [
         {
+          title: "Sr. Software Engineer",
+          company: "CapitalOne",
+          company_url: "https://www.capitalone.com/",
+          logo_path: "Capital-One-Emblem.jpg",
+          duration: "Jun 2024 - Present",
+          location: "McLean, VA, USA",
+          description:
+            "At Capital One, I develop and optimize scalable financial applications within the Secured Card team, utilizing Golang, Java, Python, Terraform, and AWS. I enhance system observability with OpenTelemetry, improve infrastructure management through Terraform, and implement automated alerting for reliability. Additionally, I built a secure, high-performance financial web application using React, optimizing state management and UI responsiveness for seamless user experiences.",
+          color: "#000000",
+        },
+        {
           title: "Sr. React UI Developer",
           company: "MissionSquare Retirement",
           company_url: "https://www.missionsq.org/",
           logo_path: "msr.jpeg",
-          duration: "Jan 2023 - Present",
+          duration: "Jan 2023 - May 2024",
           location: "Washington D.C, USA",
           description:
             "Responsible for crafting cutting-edge user interfaces using React.js. Integrating frontend components with backend services, optimizing performance, and ensuring robust functionality through comprehensive testing. Deployed applications on AWS for scalability, enhancing the organization's technical processes and user experience",

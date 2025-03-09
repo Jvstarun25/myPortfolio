@@ -1,6 +1,6 @@
 
 <h1 align="center"> Software Developer Master Portfolio 🔥 </h1> 
-<h3 align="center"> 100% customizable portfolio <br /> template for Software Developers! </h3>
+<h3 align="center"> 100% customizable portfolio <br /> template for Developers! </h3>
 
 # Sections 📚
 
